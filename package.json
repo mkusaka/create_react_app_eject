@@ -1,0 +1,14 @@
+{
+  "name": "create_react_app_eject",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/mkusaka/create_react_app_eject.git",
+  "author": "mkusaka <hinoshita1992@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "create-react-app": "^2.1.8"
+  },
+  "scripts": {
+    "cra": "create-react-app"
+  }
+}
