@@ -6,7 +6,7 @@
   "author": "mkusaka <hinoshita1992@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "create-react-app": "^3.0.0"
+    "create-react-app": "^3.0.1"
   },
   "scripts": {
     "cra": "create-react-app"
