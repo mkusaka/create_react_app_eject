@@ -35,6 +35,6 @@ echo vanilla end
 
 cd ..
 git add .
-git commit -m "update typed eject result"
+git commit -m "update vanilla eject result"
 
 echo end
