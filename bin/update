@@ -29,7 +29,7 @@ cd vanilla
 git add .
 git commit -m "update vanilla dependencies"
 
-yarn run eject -y
+yarn run eject
 
 echo vanilla end
 
