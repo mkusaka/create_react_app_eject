@@ -1,6 +1,6 @@
 #!/bin/bash
 
-yarn remove create-react-app react-scripts
+yarn remove create-react-app
 yarn add create-react-app
 rm -rf typed/
 rm -rf vanilla/
