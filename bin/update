@@ -6,7 +6,7 @@ rm -rf typed/
 rm -rf vanilla/
 
 echo typed start
-yarn run cra typed --typescript
+yarn run cra typed --template typescript
 
 cd typed
 
