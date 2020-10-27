@@ -3,7 +3,6 @@
 yarn remove create-react-app
 yarn add create-react-app
 rm -rf typed/
-rm -rf vanilla/
 
 echo typed start
 yarn run cra typed --template typescript
@@ -21,6 +20,7 @@ cd ..
 git add .
 git commit -m "update typed eject result"
 
+rm -rf vanilla/
 echo vanilla start
 
 yarn run cra vanilla
